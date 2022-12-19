@@ -1,4 +1,4 @@
-name: Dive tool (PoC) good dockerfile
+name: Dive tool good dockerfile
 on:
   push:
     branches:
